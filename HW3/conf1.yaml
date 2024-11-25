@@ -1,0 +1,24 @@
+#Comment: Student record
+#Describes some characteristics and preferences
+---
+Name: 187 #key-value
+Age: 26
+Num: 2
+Exp: 10
+Hobbies:
+  Expression: "{+ Age 1}"
+  Powcheck: "{pow Num Exp}"
+  Gym: 5
+  Drawing: -1
+  Reading: 0 
+Programming_languages:
+  Java: 2
+  Python: 3
+  Javascript: 1
+Favorite_food: 
+  Vegetables: 100 
+  Fruits: 
+      Citrics: 91247 
+      Tropical: 534
+      Nuts: 6524
+      Sweets: 123
